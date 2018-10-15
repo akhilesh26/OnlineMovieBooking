@@ -1,0 +1,12 @@
+Back-end Build intruction
+
+1. Go to back-end directory and run command 'Yarn add'
+2. go to db/connect.js and update the your mysql db password 
+3. creact database according to schema.js file
+4. Run 'yarn start'
+5. Go to  postman and try all the end points
+
+Front-end build instruction
+1. Goto front-end directory
+2. Execute 'yarn add'
+3. Open browser and goto localhost:3000
